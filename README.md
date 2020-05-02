@@ -47,4 +47,4 @@ Trained food:
 * tomato
 * watermelon
 * zucchini
-+ 101 food from the [Food 101](https://www.kaggle.com/kmader/food41) dataset
++ 101 foods from the [Food 101](https://www.kaggle.com/kmader/food41) dataset
