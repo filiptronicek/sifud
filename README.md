@@ -2,123 +2,123 @@
 An attempt for a Shazam for food inspired by [S04E03](https://www.youtube.com/watch?v=LDQcgkDn0yU) of Silicon Valley
 
 Trained food:
-* apple_pie
+* apple pie
 * avocado
-* baby_back_ribs
+* baby back ribs
 * baklava
 * banana
-* beef_carpaccio
-* beef_tartare
-* beet_salad
+* beef carpaccio
+* beef tartare
+* beet salad
 * beignets
-* bell_pepper
+* bell pepper
 * bibimbap
 * blackberry
 * blackcurrant
 * breadfruit
-* bread_pudding
-* breakfast_burrito
+* bread pudding
+* breakfast burrito
 * bruschetta
-* caesar_salad
+* caesar salad
 * cannoli
 * cantaloupe
-* caprese_salad
-* carrot_cake
+* caprese salad
+* carrot cake
 * ceviche
 * cheesecake
-* cheese_plate
+* cheese plate
 * cherry
-* chicken_curry
-* chicken_quesadilla
-* chicken_wings
-* chile_pepper
-* chocolate_cake
-* chocolate_mousse
+* chicken curry
+* chicken quesadilla
+* chicken wings
+* chile pepper
+* chocolate cake
+* chocolate mousse
 * churros
-* clam_chowder
-* club_sandwich
+* clam chowder
+* club sandwich
 * coconut
-* corn_kernel
-* crab_cakes
+* corn kernel
+* crab cakes
 * cranberry
-* creme_brulee
-* croque_madame
+* creme brulee
+* croque madame
 * cucumber
-* cup_cakes
-* deviled_eggs
+* cup cakes
+* deviled eggs
 * donuts
 * dragonfruit
 * dumplings
 * edamame
 * eggplant
-* eggs_benedict
+* eggs benedict
 * escargots
 * falafel
-* filet_mignon
-* fish_and_chips
-* foie_gras
-* french_fries
-* french_onion_soup
-* french_toast
-* fried_calamari
-* fried_rice
-* frozen_yogurt
-* garlic_bread
+* filet mignon
+* fish and chips
+* foie gras
+* french fries
+* french onion soup
+* french toast
+* fried calamari
+* fried rice
+* frozen yogurt
+* garlic bread
 * gnocchi
 * gooseberry
 * grape
 * grapefruit
-* greek_salad
-* grilled_cheese_sandwich
-* grilled_salmon
+* greek salad
+* grilled cheese sandwich
+* grilled salmon
 * guacamole
 * gyoza
 * hamburger
-* hot_and_sour_soup
-* hot_dog
-* huevos_rancheros
+* hot and sour soup
+* hot dog
+* huevos rancheros
 * hummus
-* ice_cream
+* ice cream
 * jalapeno
 * kiwifruit
 * lasagna
 * lemon
 * lime
-* lobster_bisque
-* lobster_roll_sandwich
+* lobster bisque
+* lobster roll sandwich
 * lychee
-* macaroni_and_cheese
+* macaroni and cheese
 * macarons
 * mandarine
 * mango
-* miso_soup
+* miso soup
 * mussels
 * nachos
 * olive
 * omelette
-* onion_rings
+* onion rings
 * oysters
-* pad_thai
+* pad thai
 * paella
 * pancakes
-* panna_cotta
+* panna cotta
 * papaya
 * passionfruit
 * pea
 * peach
 * pear
-* peking_duck
+* peking duck
 * pho
 * pineapple
 * pineberry
 * pizza
 * plum
 * pomelo
-* pork_chop
+* pork chop
 * poutine
-* prime_rib
+* prime rib
 * prune
-* pulled_pork_sandwich
+* pulled pork sandwich
 * pumpkin
 * raisin
 * rambutan
@@ -126,26 +126,26 @@ Trained food:
 * raspberry
 * ravioli
 * redcurrant
-* red_velvet_cake
+* red velvet cake
 * risotto
 * samosa
 * sashimi
 * scallops
-* seaweed_salad
-* shrimp_and_grits
-* spaghetti_bolognese
-* spaghetti_carbonara
-* spring_rolls
+* seaweed salad
+* shrimp and grits
+* spaghetti bolognese
+* spaghetti carbonara
+* spring rolls
 * steak
 * strawberry
-* strawberry_cake
-* strawberry_shortcake
+* strawberry cake
+* strawberry shortcake
 * sushi
 * tacos
 * takoyaki
 * tiramisu
 * tomato
-* tuna_tartare
+* tuna tartare
 * waffles
 * watermelon
 * zucchini
